@@ -1,5 +1,3 @@
-console.log('hello, world');
-
 alert('peringatan');
 
 const constanta = 314;
@@ -29,4 +27,3 @@ console.log(a);
 
 const a = 108;
 console.log(a);
-
